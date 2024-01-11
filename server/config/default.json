@@ -1,0 +1,6 @@
+{
+  "server": {
+    "db-host": "myDBAdmin:000@127.0.0.1:27017",
+    "app-port": 8091
+  }
+}
